@@ -291,7 +291,7 @@ p.interactive()
 
 #### Resultado:
 
-Por algum motivo não consegui fazer com que esse desafio me devolvesse a flag. Mas a lógica do payload está correta.
+`Flag: THM{YAY_You_r3t_t0_libc_well_d0n3}`
 
 ## Challenge 7 - Not Specified
 
